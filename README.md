@@ -1,0 +1,2 @@
+# pricing
+pricing.softreck.com
